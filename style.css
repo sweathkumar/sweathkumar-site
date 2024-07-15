@@ -1,0 +1,35 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.main{
+    background: linear-gradient(135deg, #36d1dc, #5b86e5);
+}
+.search{
+    border-radius: 50px;
+}
+.buttons{
+    border-radius: 20px;
+}
+.schedule{
+    border-radius: 40px;
+}
+.schedule-orange{
+    background-color: rgb(248, 145, 107);
+    border-radius: 30px;
+}
+.center{
+    border-radius: 25px;
+}
+.box{
+    border-radius: 30px;
+}
+.bg-success{
+    border-radius: 10px;
+    opacity: 0.7;
+}
+.fa-house, .fa-user, .fa-gear, .fa-trash{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+  
